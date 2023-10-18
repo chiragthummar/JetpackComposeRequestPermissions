@@ -26,6 +26,10 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
+                    //Request Single Permission
+                    /*PermissionDemo()*/
+
+                    //Request Multiple Permissions
                     MultiplePermissionDemo()
                 }
             }
