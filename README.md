@@ -25,6 +25,9 @@
 
 <!-- ---------- Screenshots ---------- -->
 ## Screenshots
+* App Design
+* All Permissions Granted Usecase
+* Permission Denied Usecase
 <div style="display: flex">
   <img src="app/screenshots/screen.png" width="24%">
   <img src="app/screenshots/all_permission_-given.gif" width="24%">
