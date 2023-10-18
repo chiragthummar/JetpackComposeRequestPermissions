@@ -1,6 +1,7 @@
 <!-- ---------- Header ---------- -->
-<div align="center">
-  <img width="200" height="200"src="fastlane/metadata/android/en-US/images/icon.png">
+<div >
+
+[//]: # (  <img width="200" height="200"src="fastlane/metadata/android/en-US/images/icon.png">)
   <h1>Jetpack Compose Runtime Permission</h1>
 <p>Request Single or Multiple Runtime Permission Using Accompanist In Jetpack Compose</p>
 
@@ -13,7 +14,7 @@
 - [X] Permission Rationale
 - [X] Written in Jetpack Compose
 
-<!-- ---------- Download ---------- -->
+<!-- ---------- Download Release ---------- -->
 ## Download
 
 <div>
